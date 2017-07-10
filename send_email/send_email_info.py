@@ -1,7 +1,7 @@
 # Enter your information here
 
-RECEIVING_EMAIL = ''
-SENDING_EMAIL = ''
+RECEIVING_EMAIL = 'isaactm98@gmail.com'
+SENDING_EMAIL = 'webbotting@gmail.com'
 
 
 def get_receiving_email():
