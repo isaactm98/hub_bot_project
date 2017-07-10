@@ -191,6 +191,8 @@ def main():
     parser.add_argument('sender', nargs='?', help='Sender of email.', default=get_sending_email())
     parser.add_argument('subject', nargs='?', help='Subject of email.', default='Default Subject')
     parser.add_argument('file', nargs='?', help='File to attach to email.', default=None)
+    parser.add_argument('msg_plain', nargs='?', help='File to attach to email.', default=None)
+    parser.add_argument('msg_html', nargs='?', help='File to attach to email.', default="Hi<br/>Html Email")
     args = parser.parse_args()
 
     SendMessage(args.sender, args.to, args.subject, msgHtml, msgPlain, args.file)

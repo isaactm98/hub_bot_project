@@ -15,9 +15,10 @@
       <file leaf-file-name="send_email.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/send_email.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+            <state relative-caret-position="436">
+              <caret line="194" column="107" lean-forward="false" selection-start-line="194" selection-start-column="107" selection-end-line="194" selection-end-column="107" />
               <folding>
+                <element signature="e#121#136#0" expanded="true" />
                 <element signature="e#3244#7674#0" expanded="false" />
               </folding>
             </state>
@@ -237,7 +238,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -273,6 +274,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="e#121#136#0" expanded="true" />
             <element signature="e#3244#7674#0" expanded="false" />
           </folding>
         </state>
@@ -291,6 +293,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="e#121#136#0" expanded="true" />
             <element signature="e#3244#7674#0" expanded="false" />
           </folding>
         </state>
@@ -306,9 +309,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/send_email.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        <state relative-caret-position="436">
+          <caret line="194" column="107" lean-forward="false" selection-start-line="194" selection-start-column="107" selection-end-line="194" selection-end-column="107" />
           <folding>
+            <element signature="e#121#136#0" expanded="true" />
             <element signature="e#3244#7674#0" expanded="false" />
           </folding>
         </state>
