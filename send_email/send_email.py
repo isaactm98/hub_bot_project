@@ -186,6 +186,8 @@ def main():
 
     parser = argparse.ArgumentParser(description=APPLICATION_NAME)
 
+
+
     parser.add_argument('to', nargs='?', help='The email address you are sending the email to.',
                         default=get_receiving_email())
     parser.add_argument('sender', nargs='?', help='Sender of email.', default=get_sending_email())
