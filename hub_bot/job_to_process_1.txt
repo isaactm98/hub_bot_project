@@ -1,0 +1,6 @@
+User: Isaac
+Date: ['12', 'July', '2017', '9:04', 'PM']
+@test.py
+~print('hi')
+~print('more tests')
+$python test.py
