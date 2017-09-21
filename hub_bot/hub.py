@@ -66,14 +66,14 @@ def job_file_processor(dir = os.getcwd()):#if dir is passed, it must contain ful
                     output, error = process.communicate()
                     log_file.write(str(output))
                     log_file.write(str(error))
-                elif line[0] == '@':
-                    user_script_name = line[1:]
-                    while job_file_contents[index + 1][0] == '~':
-                        user_script_contents.append(job_file_contents[index + 1][1:])
-                        index += 1
-                    write_file = open(str.strip(user_script_name, '\n'), 'w')
-                    write_file.writelines(user_script_contents)
-                    write_file.close()
+                # elif line[0] == '@':
+                #     user_script_name = line[1:]
+                #     while job_file_contents[index + 1][0] == '~':
+                #         user_script_contents.append(job_file_contents[index + 1][1:])
+                #         index += 1
+                #     write_file = open(str.strip(user_script_name, '\n'), 'w')
+                #     write_file.writelines(user_script_contents)
+                #     write_file.close()
 
         except Exception as e:
             print(e)
